@@ -1,3 +1,3 @@
 module github.com/knwoop/easy-json-parser
 
-go 1.16
+go 1.17
